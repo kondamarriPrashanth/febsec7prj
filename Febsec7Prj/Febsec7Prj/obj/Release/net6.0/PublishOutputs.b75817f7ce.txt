@@ -1,0 +1,5 @@
+E:\Emp\PHASE 4\Feb Section7Prj\Febsec7Prj\Febsec7Prj\bin\Release\net6.0\publish\Febsec7Prj.exe
+E:\Emp\PHASE 4\Feb Section7Prj\Febsec7Prj\Febsec7Prj\bin\Release\net6.0\publish\Febsec7Prj.dll
+E:\Emp\PHASE 4\Feb Section7Prj\Febsec7Prj\Febsec7Prj\bin\Release\net6.0\publish\Febsec7Prj.deps.json
+E:\Emp\PHASE 4\Feb Section7Prj\Febsec7Prj\Febsec7Prj\bin\Release\net6.0\publish\Febsec7Prj.runtimeconfig.json
+E:\Emp\PHASE 4\Feb Section7Prj\Febsec7Prj\Febsec7Prj\bin\Release\net6.0\publish\Febsec7Prj.pdb
